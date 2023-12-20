@@ -1,1 +1,1 @@
-"# pythonpractice" 
+"This program identifies if the user entered value is a string, integer or a float number" 
